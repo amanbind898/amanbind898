@@ -16,7 +16,7 @@
   
 
 - ⚡ Codechef profile: <a href="[https://www.codechef.com/users/amankumarbind]" target="_blank">
-<img src=https://cdn.codechef.com/images/cc-logo.svgstyle=for-the-badge&logo=codechef&logoColor=white alt=codechef style="margin-bottom: 5px;" />
+<img src="https://cdn.codechef.com/images/cc-logo.svg"style=for-the-badge&logo=codechef&logoColor=white alt=codechef style="margin-bottom: 5px;" />
 </a>
   
 
