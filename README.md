@@ -15,7 +15,7 @@
 - ❓ Ask me about anything related to Web Development and C++  
   
 
-- ⚡ Codechef profile:[amankumarbind](https://www.codechef.com/users/amankumarbind)
+- ⚡ Codechef profile : [ amankumarbind](https://www.codechef.com/users/amankumarbind)
   
 
 <br/>  
