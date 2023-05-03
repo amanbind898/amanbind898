@@ -15,10 +15,8 @@
 - ❓ Ask me about anything related to Web Development and C++  
   
 
-- ⚡ Codechef profile: <a href="[https://www.codechef.com/users/amankumarbind]" target="_blank">
-<img src="https://cdn.codechef.com/images/cc-logo.svg"style=for-the-badge&logo=codechef&logoColor=white alt=codechef style="margin-bottom: 5px;" />
-</a>
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="(https://cdn.codechef.com/images/cc-logo.svg)" alt="HTML5" height="50" /></a>  
+- ⚡ Codechef profile:[<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  ](https://www.codechef.com/users/amankumarbind)
   
 
 <br/>  
