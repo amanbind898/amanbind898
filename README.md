@@ -15,7 +15,9 @@
 - ❓ Ask me about anything related to Web Development and C++  
   
 
-- ⚡ Fun fact: --  
+- ⚡ Codechef profile: <a href="[https://www.codechef.com/users/amankumarbind]" target="_blank">
+<img src=https://cdn.codechef.com/images/cc-logo.svgstyle=for-the-badge&logo=codechef&logoColor=white alt=codechef style="margin-bottom: 5px;" />
+</a>
   
 
 <br/>  
