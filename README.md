@@ -15,8 +15,7 @@
 - ❓ Ask me about anything related to Web Development and C++  
   
 
-- ⚡ Codechef profile:[<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  ](https://www.codechef.com/users/amankumarbind)
+- ⚡ Codechef profile:[amankumarbind](https://www.codechef.com/users/amankumarbind)
   
 
 <br/>  
