@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [My portfolio Website](https://github.com/amanbind898/amanbind898.github.io)  
   
 
-- 🌱 I’m currently learning C/C++ & Web Develpoment  
+- 🌱 I’m currently learning DSA in C/C++ & Web Develpoment  
   
 
 - ❓ Ask me about anything related to Web Development and C++  
