@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amanbind898" alt="amanbind898" /></a> </p>
 
-- 🔭 I’m currently working on [My portfolio Website](https://github.com/amanbind898/amanbind898.github.io)
+- 🔭 I’m currently working on [My portfolio Website](https://github.com/amanbind898/)
 
 - 🌱 I’m currently learning **DSA in C/C++ & Web Develpoment**
 
