@@ -7,7 +7,8 @@
 
 #  About Me:
 🔭 I’m currently working on [My portfolio Website](https://github.com/amanbind898/amanbind898.github.io)<br><br>🌱 I’m currently learning DSA in C/C++ & Web Develpoment<br><br>💬 Ask me about anything related to Web Development and C++<br><br>📫 How to reach me amanbind898@gmail.com
-
+## Badges:
+[![An image of @amanbind898's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amanbind898)](https://holopin.io/@amanbind898)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aman.bind898) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@technologicalaman) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/amanbind898) 
