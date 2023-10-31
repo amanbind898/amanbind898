@@ -6,7 +6,7 @@
 <h3 align="center">CSE undergrad at IIIT Bhagalpur</h3>
 
 #  About Me:
-🔭 I’m currently working on [My portfolio Website](https://github.com/amanbind898/amanbind898.github.io)<br><br>🌱 I’m currently learning DSA in C/C++ & Web Develpoment<br><br>💬 Ask me about anything related to Web Development and C++<br><br>📫 How to reach me aman.2201086cs@iiitbh.ac.in
+🔭 I’m currently working on FrontEnd Projects <br><br>🌱 I’m currently learning DSA in C/C++ & Web Develpoment<br><br>💬 Ask me about anything related to Web Development and C++<br><br>📫 How to reach me aman.2201086cs@iiitbh.ac.in
 
 
 
