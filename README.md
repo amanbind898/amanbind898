@@ -20,6 +20,7 @@
 # 📊 GitHub Stats:
 [![amanbind898's GitHub | Stats](https://stats.quine.sh/amanbind898/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=amanbind898)<br/>
 [![amanbind898's GitHub | Languages Over Time](https://stats.quine.sh/amanbind898/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=amanbind898)
+[![amanbind898's GitHub | Topics Over Time](https://stats.quine.sh/amanbind898/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=amanbind898)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=amanbind898&theme=gitdimmed&no-frame=true&no-bg=false&margin-w=4)
