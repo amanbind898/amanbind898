@@ -18,7 +18,7 @@
   <a href="https://youtube.com/@technologicalaman" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />
   </a>
-  <a href="https://amanbind.vercel.app" target="_blank">
+  <a href="https://amanbind898.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
