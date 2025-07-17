@@ -118,7 +118,6 @@
 - 🥇 337th in CodeChef Starters 169  
 - 🧠 Solved 740+ DSA Problems (LeetCode, GFG, Codeforces)  
 - 🚀 Built 4+ full-stack products used by 500+ users  
-- 👨‍🏫 Taught and mentored juniors via YouTube & GitHub
 
 ---
 
