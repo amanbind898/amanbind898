@@ -95,7 +95,7 @@
 | **Rank2College** | JEE Main College Predictor based on user rank, category, and state | Next.js, CSV parsing, Tailwind CSS | [GitHub Repo](https://github.com/amanbind898/rank2college) |
 | **SkillUp** | A structured learning tracker with scraping-based progress automation | Next.js, MongoDB, Tailwind | [GitHub Repo](https://github.com/amanbind898/skillup) |
 | **AI Mock Interview** | Mock interview app using GEMINI AI API + Firebase Auth | Next.js, gemini ai, Clerk | [GitHub Repo](https://github.com/amanbind898/ai-mock-interview) |
-| **ReelMojo** | Digital product marketplace for reel creators | Next.js,MongoDB,firebase, Razorpay | [Live Site](https://reelmojo.vercel.app) |
+| **Trade 9:15** | Realtime dashboard for indian retail traders and trading journal SaaS | Next.js,MongoDB,firebase,FireStore,REST API| [Live Site](https://reelmojo.vercel.app) |
 
 ---
 ## Badges
