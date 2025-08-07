@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Aman Bind</h1>
-<h3 align="center">Full Stack Developer | CSE @ IIIT Bhagalpur | Open Source Enthusiast</h3>
+<h3 align="center">Full Stack Developer | CSE @ IIIT Bhagalpur </h3>
 
 <p align="center">
   <a href="mailto:aman.2201086cs@iiitbh.ac.in">
@@ -28,10 +28,8 @@
 ### 🚀 About Me
 
 - 🔭 I'm a Full Stack Developer (MERN & Next.js)  
-- 🧠 Currently exploring Open Source and Backend Architecture  
+- 🧠 Currently exploring DevOps and Backend Architecture  
 - 💡 I love building real-world apps and devtools  
-- 🛠️ Strong in DSA & CS Fundamentals (OS, DBMS, Networking)  
-- 🧑‍💻 Active contributor on GitHub, LeetCode & personal projects  
 - 📫 Reach me at: `aman.2201086cs@iiitbh.ac.in`
 
 ---
@@ -123,7 +121,6 @@
 
 ### 🧩 Let's Collaborate
 
-- ✅ Open to contributing to OSS projects
 - 🔍 Exploring internships & freelance dev work
 - 🤝 Reach me if you need help building products or MVPs
 
