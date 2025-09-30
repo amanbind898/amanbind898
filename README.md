@@ -28,7 +28,7 @@
 ### 🚀 About Me
 
 - 🔭 I'm a Full Stack Developer (MERN & Next.js)  
-- 🧠 Currently exploring DevOps and Backend Architecture  
+- 🧠 Currently exploring AIML and Backend Architecture  
 - 💡 I love building real-world apps and devtools  
 - 📫 Reach me at: `aman.2201086cs@iiitbh.ac.in`
 
