@@ -24,7 +24,7 @@
 </p>
 
 ---
-
+[![An image of @amanbind898's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amanbind898)](https://holopin.io/@amanbind898)
 ### 🚀 About Me
 
 - 🔭 I'm a Full Stack Developer (MERN & Next.js)  
@@ -96,8 +96,6 @@
 | **Trade 9:15** | Realtime dashboard for indian retail traders and trading journal SaaS | Next.js,MongoDB,firebase,FireStore,REST API| [Live Site](https://trade915.app) |
 
 ---
-## Badges
-[![An image of @amanbind898's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amanbind898)](https://holopin.io/@amanbind898)
 
 ### 📊 GitHub Stats
 
