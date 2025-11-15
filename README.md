@@ -122,13 +122,7 @@
 - 🔍 Exploring internships & freelance dev work
 - 🤝 Reach me if you need help building products or MVPs
 
-### 🧰 My Gear
 
-| Device     | Model |
-|------------|--------|
-| 🖱️ Mouse     | [Logitech M221 Wireless](https://amzn.to/3LFdsdc) |
-| 💻 Laptop    | [Lenovo LOQ – i5-12450HX](https://amzn.to/47HbLEH) |
-| ⌨️ Keyboard | [Cosmic Byte CB-GK-18 Firefly](https://amzn.to/4r2dFHA) |
 
 
 
@@ -136,3 +130,12 @@
 
 > ⚡ “Code is not just a job; it’s my craft.”  
 > — Aman Bind
+
+
+### 🧰 My Gear
+
+| Device     | Model |
+|------------|--------|
+| 🖱️ Mouse     | [Logitech M221 Wireless](https://amzn.to/3LFdsdc) |
+| 💻 Laptop    | [Lenovo LOQ – i5-12450HX](https://amzn.to/47HbLEH) |
+| ⌨️ Keyboard | [Cosmic Byte CB-GK-18 Firefly](https://amzn.to/4r2dFHA) |
