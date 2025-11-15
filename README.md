@@ -122,6 +122,14 @@
 - 🔍 Exploring internships & freelance dev work
 - 🤝 Reach me if you need help building products or MVPs
 
+### 🖥️ My Setup  
+| Item        | Model & Details                             |
+|-------------|--------------------------------------------|
+| Mouse       | Logitech M221 Wireless Mouse                |
+| Laptop      | Lenovo LOQ 15.6″ (Intel Core i5-12450HX)    |
+| Keyboard    | Cosmic Byte CB-GK-18 Firefly                |
+
+
 ---
 
 > ⚡ “Code is not just a job; it’s my craft.”  
