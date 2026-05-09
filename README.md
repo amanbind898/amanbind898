@@ -88,8 +88,7 @@
 
 | Project | Description | Tech Stack | Link |
 |--------|-------------|------------|------|
-| **Sellary** |Built an end-to-end digital commerce platform enabling creators to sell digital products with automated payment
-verification and secure post-payment delivery using Razorpay webhooks.| [Live Site](https://sellary.live) |
+| **Sellary** |Built an end-to-end digital commerce platform enabling creators to sell digital products with automated payment verification and secure post-payment delivery using Razorpay webhooks.| Next.js,MongoDB,firebase,FireStore,REST API| [Live Site](https://sellary.live) |
 | **Trade 9:15** | Realtime dashboard for indian retail traders and trading journal SaaS | Next.js,MongoDB,firebase,FireStore,REST API| [Live Site](https://trade915.app) |
 | **Live-Fraud-Rule-Composer-Transaction-Explorer** | A live rule-composer UI with transaction drill-down & filtering | TypeScript, React, Tailwind, MongoDB | [GitHub Repo](https://github.com/amanbind898/Live-Fraud-Rule-Composer-Transaction-Explorer) |
 | **Full-Stack-Scraper-Challenge** | Python-based challenge scraping and serving data from protected endpoints | Python, BeautifulSoup, Flask | [GitHub Repo](https://github.com/amanbind898/Full-Stack-Scraper-Challenge) |
