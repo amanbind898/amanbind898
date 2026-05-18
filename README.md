@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Aman Bind</h1>
-<h3 align="center">Full Stack Developer | CSE @ IIIT Bhagalpur </h3>
+<h3 align="center">Full Stack Developer | Game Dev | CSE @ IIIT Bhagalpur </h3>
 
 <p align="center">
   <a href="mailto:aman.2201086cs@iiitbh.ac.in">
@@ -25,11 +25,13 @@
 
 ---
 [![An image of @amanbind898's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amanbind898)](https://holopin.io/@amanbind898)
+
 ### 🚀 About Me
 
-- 🔭 I'm a Full Stack Developer (MERN & Next.js)  
-- 🧠 Currently exploring AIML and Backend Architecture  
-- 💡 I love building real-world apps and devtools  
+- 💼 **Trainee Development** at [Ingenuity Gaming](https://www.ingenuitygaming.com/) (April 2026 - Present)
+- 🔭 Full Stack Developer (MERN & Next.js) | Game Development Enthusiast
+- 🧠 Exploring AIML, Backend Architecture & Game Development
+- 💡 Building real-world apps, devtools, and games that matter
 - 📫 Reach me at: `aman.2201086cs@iiitbh.ac.in`
 
 ---
@@ -88,15 +90,17 @@
 ### 🌟 Featured Projects
 
 | Project | Description | Tech Stack | Link |
-|--------|-------------|------------|------|
-| **Sellary** |Built an end-to-end digital commerce platform enabling creators to sell digital products with automated payment verification and secure post-payment delivery using Razorpay webhooks.| Next.js,MongoDB,firebase,FireStore,REST API| [Live Site](https://sellary.live) |
-| **Trade 9:15** | Realtime dashboard for indian retail traders and trading journal SaaS | Next.js,MongoDB,firebase,FireStore,REST API| [Live Site](https://trade915.app) |
-| **Live-Fraud-Rule-Composer-Transaction-Explorer** | A live rule-composer UI with transaction drill-down & filtering | TypeScript, React, Tailwind, MongoDB | [GitHub Repo](https://github.com/amanbind898/Live-Fraud-Rule-Composer-Transaction-Explorer) |
-| **Full-Stack-Scraper-Challenge** | Python-based challenge scraping and serving data from protected endpoints | Python, BeautifulSoup, Flask | [GitHub Repo](https://github.com/amanbind898/Full-Stack-Scraper-Challenge) |
-| **Rank2College** | JEE Main College Predictor based on user rank, category, and state | Next.js, CSV parsing, Tailwind CSS | [GitHub Repo](https://github.com/amanbind898/rank2college) |
-| **SkillUp** | A structured learning tracker with scraping-based progress automation | Next.js, MongoDB, Tailwind | [GitHub Repo](https://github.com/amanbind898/skillup) |
-| **AI Mock Interview** | Mock interview app using GEMINI AI API + Firebase Auth | Next.js, gemini ai, Clerk | [GitHub Repo](https://github.com/amanbind898/ai-mock-interview) |
-
+|---------|-------------|------------|------|
+| **Crash Mini Game** 🎮 | A fast-paced crash game with animated airplane flight, multiplier-based betting, balance system, and real-time cashout mechanics | TypeScript, PixiJS, React | [GitHub Repo](https://github.com/amanbind898/crash-mini-game) |
+| **AI Mock Interview** 🎯 | Full-stack mock interview platform powered by Gemini AI with real-time feedback and interview analytics | Next.js, Gemini AI, Clerk Auth, Firebase | [GitHub Repo](https://github.com/amanbind898/ai-mock-interview) |
+| **Trade 9:15** 📊 | Real-time trading dashboard & journal SaaS for Indian retail traders with technical analysis and trade logging | Next.js, MongoDB, Firebase, REST API | [Live Site](https://trade915.app) |
+| **Live Fraud Rule Composer** 🔍 | Interactive transaction explorer with rule composition UI and real-time filtering for fraud detection | TypeScript, React, Tailwind, MongoDB | [GitHub Repo](https://github.com/amanbind898/Live-Fraud-Rule-Composer-Transaction-Explorer) |
+| **Rank2College** 🎓 | JEE Main college predictor using official JoSAA 2024 data with rank-based filtering and personalized recommendations | Next.js, CSV Parsing, Tailwind CSS | [GitHub Repo](https://github.com/amanbind898/rank2college) |
+| **Full-Stack Scraper Challenge** 🕷️ | Backend scraper that extracts data from protected endpoints with robust parsing and API serving | Python, BeautifulSoup, Flask, REST API | [GitHub Repo](https://github.com/amanbind898/Full-Stack-Scraper-Challenge) |
+| **Bail Reckoner** ⚖️ | NLP-powered bail assessment system for legal aid with ML-based eligibility prediction and bail application generation | JavaScript, NLP, Machine Learning | [GitHub Repo](https://github.com/amanbind898/BAIL-RECKONER) |
+| **GraphFlow AI** 🤖 | AI agents framework for workflow automation and intelligent task execution | JavaScript, AI Agents | [GitHub Repo](https://github.com/amanbind898/graphflow-ai) |
+| **SkillUp** 📚 | Structured learning tracker with automated progress monitoring and scraping-based skill verification | Next.js, MongoDB, Tailwind | [GitHub Repo](https://github.com/amanbind898/skillup) |
+| **Daily Expense Diary** 💰 | Personal finance tracker with expense categorization, analytics, and budget insights | TypeScript, React, Tailwind | [GitHub Repo](https://github.com/amanbind898/daily-expense-diary) |
 
 ---
 
@@ -110,23 +114,32 @@
 
 ### 🏆 Achievements
 
-- 🥇 337th in CodeChef Starters 169  
-- 🧠 Solved 740+ DSA Problems (LeetCode, GFG, Codeforces)  
-- 🚀 Built 4+ full-stack products used by 500+ users  
+- 🥇 **337th** in CodeChef Starters 169
+- 🧠 **740+** DSA Problems solved (LeetCode, GeeksforGeeks, Codeforces)
+- 🚀 **40+** Projects shipped with diverse tech stacks
+- 👥 **500+** Users impacted through built products
+- 🎮 Game development experience with PixiJS
+- 🤖 AI/ML project portfolio including plant disease detection & deepfake detection
+
+---
+
+### 💼 Work Experience
+
+- **Trainee Development @ Ingenuity Gaming** (April 2026 - Present)
+  - Building game mechanics and interactive features
+  - Full-stack game development using modern web technologies
+  - Collaborating with game design and engineering teams
 
 ---
 
 ### 🧩 Let's Collaborate
 
-- 🔍 Exploring internships & freelance dev work
-- 🤝 Reach me if you need help building products or MVPs
-
-
-
-
+- 💼 Open to full-stack development, game dev, and AI/ML projects
+- 🤝 Available for freelance work and interesting product builds
+- 📧 Reach out for MVPs, devtools, or collaborative projects
 
 ---
 
-> ⚡ “Code is not just a job; it’s my craft.”  
+> ⚡ "Code is not just a job; it's my craft."  
 > — Aman Bind
 
