@@ -91,16 +91,15 @@
 
 | Project | Description | Tech Stack | Link |
 |---------|-------------|------------|------|
+| **sellary.live** 💸 | Digital e-commerce platform for Indian creators to sell digital products (like e-books, PDFs, courses) with zero-friction setup, UPI/local payments, and automated delivery. Optimized for the Indian market with an earn-first fee model. | Next.js, MongoDB, Vercel, UPI Integration | [Live Site](https://sellary.live) |
 | **Crash Mini Game** 🎮 | A fast-paced crash game with animated airplane flight, multiplier-based betting, balance system, and real-time cashout mechanics | TypeScript, PixiJS, React | [GitHub Repo](https://github.com/amanbind898/crash-mini-game) |
-| **AI Mock Interview** 🎯 | Full-stack mock interview platform powered by Gemini AI with real-time feedback and interview analytics | Next.js, Gemini AI, Clerk Auth, Firebase | [GitHub Repo](https://github.com/amanbind898/ai-mock-interview) |
-| **Trade 9:15** 📊 | Real-time trading dashboard & journal SaaS for Indian retail traders with technical analysis and trade logging | Next.js, MongoDB, Firebase, REST API | [Live Site](https://trade915.app) |
 | **Live Fraud Rule Composer** 🔍 | Interactive transaction explorer with rule composition UI and real-time filtering for fraud detection | TypeScript, React, Tailwind, MongoDB | [GitHub Repo](https://github.com/amanbind898/Live-Fraud-Rule-Composer-Transaction-Explorer) |
 | **Rank2College** 🎓 | JEE Main college predictor using official JoSAA 2024 data with rank-based filtering and personalized recommendations | Next.js, CSV Parsing, Tailwind CSS | [GitHub Repo](https://github.com/amanbind898/rank2college) |
-| **Full-Stack Scraper Challenge** 🕷️ | Backend scraper that extracts data from protected endpoints with robust parsing and API serving | Python, BeautifulSoup, Flask, REST API | [GitHub Repo](https://github.com/amanbind898/Full-Stack-Scraper-Challenge) |
-| **Bail Reckoner** ⚖️ | NLP-powered bail assessment system for legal aid with ML-based eligibility prediction and bail application generation | JavaScript, NLP, Machine Learning | [GitHub Repo](https://github.com/amanbind898/BAIL-RECKONER) |
-| **GraphFlow AI** 🤖 | AI agents framework for workflow automation and intelligent task execution | JavaScript, AI Agents | [GitHub Repo](https://github.com/amanbind898/graphflow-ai) |
-| **SkillUp** 📚 | Structured learning tracker with automated progress monitoring and scraping-based skill verification | Next.js, MongoDB, Tailwind | [GitHub Repo](https://github.com/amanbind898/skillup) |
 | **Daily Expense Diary** 💰 | Personal finance tracker with expense categorization, analytics, and budget insights | TypeScript, React, Tailwind | [GitHub Repo](https://github.com/amanbind898/daily-expense-diary) |
+| **Portfolio** 🌐 | Personal developer portfolio built with Next.js | Next.js, TypeScript, Tailwind | [GitHub Repo](https://github.com/amanbind898/portfolio-nextjs) |
+| **AgriVision: Plant Disease Detection** 🪴 | Deep learning powered system for plant disease classification and visualization for Indian farming context | Python, Jupyter, CNNs | [GitHub Repo](https://github.com/amanbind898/agrivision-plant-disease-detection) |
+| **Trade 9:15** 📊 | Real-time trading dashboard & journal SaaS for Indian retail traders | Next.js, MongoDB, REST API | [Live Site](https://trade915.app) |
+| **SkillUp** 📚 | Platform to provide study resources, interview preparation, and track progress in competitive coding, DSA, and other skills | JavaScript, Node.js, MongoDB | [GitHub Repo](https://github.com/amanbind898/skill-development-portal) |
 
 ---
 
