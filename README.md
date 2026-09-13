@@ -91,7 +91,7 @@
 
 | Project | Description | Tech Stack | Link |
 |---------|-------------|------------|------|
-| **sellary.live** 💸 | Digital e-commerce platform for Indian creators to sell digital products (like e-books, PDFs, courses) with zero-friction setup, UPI/local payments, and automated delivery. Optimized for the Indian market with an earn-first fee model. | Next.js, MongoDB, Vercel, UPI Integration | [Live Site](https://sellary.live) |
+| **sellary.in** 💸 | Digital e-commerce platform for Indian creators to sell digital products (like e-books, PDFs, courses) with zero-friction setup, UPI/local payments, and automated delivery. Optimized for the Indian market with an earn-first fee model. | Next.js, MongoDB, Vercel, UPI Integration | [Live Site](https://sellary.in) |
 | **Crash Mini Game** 🎮 | A fast-paced crash game with animated airplane flight, multiplier-based betting, balance system, and real-time cashout mechanics | TypeScript, PixiJS, React | [GitHub Repo](https://github.com/amanbind898/crash-mini-game) |
 | **Live Fraud Rule Composer** 🔍 | Interactive transaction explorer with rule composition UI and real-time filtering for fraud detection | TypeScript, React, Tailwind, MongoDB | [GitHub Repo](https://github.com/amanbind898/Live-Fraud-Rule-Composer-Transaction-Explorer) |
 | **Rank2College** 🎓 | JEE Main college predictor using official JoSAA 2024 data with rank-based filtering and personalized recommendations | Next.js, CSV Parsing, Tailwind CSS | [GitHub Repo](https://github.com/amanbind898/rank2college) |
