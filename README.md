@@ -98,7 +98,7 @@
 | **Daily Expense Diary** 💰 | Personal finance tracker with expense categorization, analytics, and budget insights | TypeScript, React, Tailwind | [GitHub Repo](https://github.com/amanbind898/daily-expense-diary) |
 | **Portfolio** 🌐 | Personal developer portfolio built with Next.js | Next.js, TypeScript, Tailwind | [GitHub Repo](https://github.com/amanbind898/portfolio-nextjs) |
 | **AgriVision: Plant Disease Detection** 🪴 | Deep learning powered system for plant disease classification and visualization for Indian farming context | Python, Jupyter, CNNs | [GitHub Repo](https://github.com/amanbind898/agrivision-plant-disease-detection) |
-| **Trade 9:15** 📊 | Real-time trading dashboard & journal SaaS for Indian retail traders | Next.js, MongoDB, REST API | [Live Site](https://trade915.app) |
+| **Trade 9:15** 📊 | Real-time trading dashboard & journal SaaS for Indian retail traders | Next.js, MongoDB, REST API | [Live Site](https://trade915.in) |
 | **SkillUp** 📚 | Platform to provide study resources, interview preparation, and track progress in competitive coding, DSA, and other skills | JavaScript, Node.js, MongoDB | [GitHub Repo](https://github.com/amanbind898/skill-development-portal) |
 
 ---
