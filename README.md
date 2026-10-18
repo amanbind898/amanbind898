@@ -1,4 +1,4 @@
-
+<div align="center">
   <img src="https://raw.githubusercontent.com/amanbind898/amanbind898/main/ezgif-3-e2dd7b4583.gif" alt="Aman Bind banner" style="width: 100%" />
 </div>
 
@@ -57,6 +57,8 @@
 ![Firebase Functions](https://img.shields.io/badge/Firebase%20Functions-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 
 #### 🛢️ Databases & Caching
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
@@ -91,6 +93,7 @@
 
 | Project | Description | Tech Stack | Link |
 |---------|-------------|------------|------|
+| **Instakartt** ⚡🛒 | Hyperlocal quick-commerce platform (Food & Grocery) modeled after Zepto/Blinkit with 10–15 min delivery. Features multi-store cart isolation, per-store tiered delivery fee calculation, server-authoritative checkout with batched orders, WhatsApp OTP authentication, Upstash Redis caching, and dedicated Seller/Manager portals. | Next.js 16, React 19, PostgreSQL, Prisma ORM, Upstash Redis, Tailwind CSS, Razorpay | [GitHub Repo](https://github.com/amanbind898/instakartt) |
 | **sellary.in** 💸 | Digital e-commerce platform for Indian creators to sell digital products (like e-books, PDFs, courses) with zero-friction setup, UPI/local payments, and automated delivery. Optimized for the Indian market with an earn-first fee model. | Next.js, Postgres, Vercel, Razorpay, R2 cloudflare Integration | [Live Site](https://sellary.in) |
 | **Crash Mini Game** 🎮 | A fast-paced crash game with animated airplane flight, multiplier-based betting, balance system, and real-time cashout mechanics | TypeScript, PixiJS, React | [GitHub Repo](https://github.com/amanbind898/crash-mini-game) |
 | **Live Fraud Rule Composer** 🔍 | Interactive transaction explorer with rule composition UI and real-time filtering for fraud detection | TypeScript, React, Tailwind, MongoDB | [GitHub Repo](https://github.com/amanbind898/Live-Fraud-Rule-Composer-Transaction-Explorer) |
